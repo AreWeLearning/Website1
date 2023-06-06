@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: gainsboro;
+    background-color: lightgray;
   }
   
   h1 {
@@ -8,18 +8,18 @@ body {
   }
   
   h2 {
-    color: rebeccapurple;
+    color: blue;
     text-align: center;
   }
   
   table {
-    border: 2px solid darkorchid;
+    border: 2px solid darkblue;
     width: 650px;
     margin: 0 auto;
   }
   
   thead {
-    background-color: plum;
+    background-color:aquamarine;
   }
   
   td {
@@ -28,5 +28,5 @@ body {
   
   .code {
     font-family: monospace;
-    background-color: beige;
+    background-color: cornsilk;
   }
